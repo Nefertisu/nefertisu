@@ -12,5 +12,4 @@
   <a href="https://www.linkedin.com/in/volodymyr-kyryliuk-a9108a24b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-## Open for Collaboration 
-Open to collaboration on any tech stack — as long as the project is open-source and the idea is inspiring!
+Open to collaboration on any tech stack — as long as the project is open-source and the idea is inspiring
