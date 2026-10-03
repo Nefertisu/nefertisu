@@ -1,4 +1,4 @@
-**Open to collaboration on any tech stack—as long as the project is open-source and the idea is inspiring**
+**Open to collaboration on any tech stack - as long as the project is open-source and the idea is inspiring**
 
 <p align="left">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
