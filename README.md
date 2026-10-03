@@ -1,4 +1,4 @@
-**Open to collaboration on any tech stack - as long as the project is open-source and the idea is inspiring**
+
 
 ## Core Technologies
 
@@ -21,3 +21,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+**Open to collaboration on any tech stack - as long as the project is open-source and the idea is inspiring**
